@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nach0Sepulveda
+- 👀 I’m interested in Cybersecurity and Open Source Software
+- 🌱 I’m currently learning Python and Javascript
